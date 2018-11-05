@@ -1,0 +1,22 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Campus/src/Campus.Application/obj
+/Campus/src/Campus.WebApi/bin/Debug/netcoreapp2.0
+/Campus/src/Campus.WebApi/obj
+/Campus/src/Campus.UI.Site/bin/Debug/netcoreapp2.0
+/Campus/src/Campus.UI.Site/obj
+/Campus/src/Campus.Infra.Data/bin/Debug/netcoreapp2.0
+/Campus/src/Campus.Infra.Data/obj
+/Campus/src/Campus.Infra.CrossCutting.IoC/bin/Debug/netcoreapp2.0
+/Campus/src/Campus.Infra.CrossCutting.IoC/obj
+/Campus/src/Campus.Infra.CrossCutting.Identity/bin/Debug/netcoreapp2.0
+/Campus/src/Campus.Infra.CrossCutting.Identity/obj
+/Campus/src/Campus.Infra.CrossCutting.Bus/bin/Debug/netcoreapp2.0
+/Campus/src/Campus.Infra.CrossCutting.Bus/obj
+/Campus/src/Campus.Domain.Core/bin/Debug/netcoreapp2.0
+/Campus/src/Campus.Domain.Core/obj
+/Campus/src/Campus.Domain/bin/Debug/netcoreapp2.0
+/Campus/src/Campus.Domain/obj
+/Campus/src/Campus.Application/bin/Debug/netcoreapp2.0
